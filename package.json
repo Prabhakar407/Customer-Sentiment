@@ -1,0 +1,10 @@
+{
+  "name": "customer-sentiment-workspace",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix customer_sentiment run dev",
+    "build": "npm --prefix customer_sentiment run build",
+    "lint": "npm --prefix customer_sentiment run lint",
+    "preview": "npm --prefix customer_sentiment run preview"
+  }
+}
